@@ -41,10 +41,6 @@ de tratamento e validação.
 
 [🔗 Acessar dataset RAW na Dadosfera](https://app.dadosfera.ai/pt-BR/collect/import-files/39ebcf6f-9706-4afa-b511-c0dc2948078a)
 
-### Evidência
-
-<img width="1914" height="904" alt="Evidência do dataset RAW na Dadosfera" src="https://github.com/user-attachments/assets/854dc638-ed13-491f-b7da-525c9e96abfd" />
-
 ---
 
 # Item 2 — Arquitetura e organização dos dados
