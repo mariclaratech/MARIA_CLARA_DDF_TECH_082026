@@ -1,0 +1,20 @@
+campo,descricao
+product_id,Identificador único do produto
+title,Nome comercial do produto
+description,Descrição textual do produto
+category,Categoria principal do produto
+subcategory,Subcategoria do produto
+brand,Marca do produto
+color,Cor do produto
+locale,Localidade do produto
+seller_type,Tipo de vendedor
+price,Preço do produto
+rating,Avaliação média do produto
+review_count,Quantidade de avaliações
+stock_quantity,Quantidade disponível em estoque
+views,Quantidade de visualizações
+orders,Quantidade de pedidos
+units_sold,Quantidade de unidades vendidas
+revenue,Receita gerada pelo produto
+created_at,Data de criação do registro
+updated_at,Data da última atualização

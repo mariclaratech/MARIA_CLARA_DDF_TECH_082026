@@ -1,0 +1,7 @@
+regra,coluna,status
+ExpectColumnValuesToNotBeNull,product_id,PASS
+ExpectColumnValuesToBeUnique,product_id,FAIL
+ExpectColumnValuesToNotBeNull,price,FAIL
+ExpectColumnValuesToBeBetween,price,PASS
+ExpectColumnValuesToBeBetween,rating,FAIL
+ExpectColumnValuesToBeBetween,stock_quantity,FAIL
